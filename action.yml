@@ -65,5 +65,5 @@ outputs:
     headers:
         description: 'HTTP Response Headers'
 runs:
-    using: 'node16'
+    using: 'node12'
     main: 'dist/index.js'
